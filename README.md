@@ -12,3 +12,7 @@ MoSCoW prioritization, also known as MoSCoW method or MoSCoW analysis is a techn
 
 ### How to use it
 Install it with any popular userscript browser plugin like: `Tampermonkey` or `Greasemonkey`. Tested and created with `Tampermonkey` on Firefox.
+
+### Overview
+
+![Userscript comparison](gitlab-moscow-overview.jpg)
